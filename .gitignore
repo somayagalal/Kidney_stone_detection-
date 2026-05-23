@@ -1,0 +1,12 @@
+# Generated datasets
+*.pickle
+dataset/augmented/
+dataset/**/augmented/
+
+# Trained models
+*.h5
+*.keras
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
